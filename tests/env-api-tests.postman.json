@@ -5,7 +5,7 @@
     "enabled": true,
     "key": "apiUrl",
     "value": "http://localhost:3000/api",
-    "type": "text"
+    "type": "text1"
   }],
   "timestamp": 1505871382668,
   "_postman_variable_scope": "environment",
